@@ -1,0 +1,6 @@
+/.idea
+.DS_Store
+.git
+.codekit-cache
+.sass-cache
+/node_modules
